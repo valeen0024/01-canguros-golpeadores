@@ -4,7 +4,7 @@ Curso Programación para Videojuegos
 
 ## Presentación Ivan Andrey Castellanos Rojas
 
-<img src="./Ivan/Foto personal Ivan.jpg"
+<img src="./Ivan/Foto personal Ivan.jpg" width="200"> 
 
 **Rol en la industria:** Game Programmer
 
