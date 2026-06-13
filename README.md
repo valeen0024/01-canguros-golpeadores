@@ -6,8 +6,8 @@ Curso Programación para Videojuegos
 
 Carlos Andres Ochoa 
 
-!![Carlos Andres Ochoa](./carlos/andres.JPEG)
-<img src="./carlos/andres.JPEG" width="400" alt="Carlos Andres Ochoa">
+
+<img src="Carlos/andres.jpeg" width="400" alt="Carlos Andres Ochoa">
 
 Estudiante, Ing. Multimedia
 
@@ -15,5 +15,6 @@ Andrés: Efecto de sonidos
 
 Tunja
 
+"C:\Users\Usuario\OneDrive\Documentos\GitHub\01-canguros-golpeadores\Carlos\andres.jpeg"
 
 
