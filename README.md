@@ -6,7 +6,7 @@
 
 ## Foto Personal
 
-<img src="Liliana/Liliana.jpeg" width="300">
+<img src="Liliana/Liliana.jpeg" width="400">
 
 ---
 
@@ -31,7 +31,7 @@ Tunja, Boyacá - Colombia
 
 ## Perfil Breve
 
-Soy estudiante de Ingeniería Multimedia con interés en el desarrollo de videojuegos,
+Soy estudiante de Ingeniería Multimedia me gustaria aprender sobre el desarrollo de videojuegos, y especializarme en 
 animación digital y producción de contenido interactivo.
 Me gusta crear experiencias digitales innovadoras que integren creatividad,
 tecnología y entretenimiento.
@@ -40,6 +40,6 @@ tecnología y entretenimiento.
 
 ## Mi Plato Favorito
 
-<img src="Liliana/Pasta.jpg" width="300">
+<img src="Liliana/Pasta.jpg" width="400">
 
 **Pasta con camarones**
