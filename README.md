@@ -6,7 +6,7 @@
 
 ## Foto Personal
 
-<img src="Liliana/Liliana.jpeg" width="400">
+<img src="Liliana/Liliana.jpeg" width="350">
 
 ---
 
@@ -40,6 +40,6 @@ tecnología y entretenimiento.
 
 ## Mi Plato Favorito
 
-<img src="Liliana/Pasta.jpg" width="400">
+<img src="Liliana/Pasta.jpg" width="350">
 
 **Pasta con camarones**
