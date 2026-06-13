@@ -14,7 +14,3 @@ Estudiante, Ing. Multimedia
 Andrés: Efecto de sonidos
 
 Tunja
-
-"C:\Users\Usuario\OneDrive\Documentos\GitHub\01-canguros-golpeadores\Carlos\andres.jpeg"
-
-
