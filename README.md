@@ -1,5 +1,6 @@
 # 01-canguros-golpeadores
-Curso Programación para Videojuegos
+
+## Curso Programación para Videojuegos
 
 
 ## Presentación Personal 
@@ -23,4 +24,3 @@ Acacías, Meta - Colombia
 ## Perfil 
 
 Soy un estudiante de ingeniería multimedia, me apasiona la programación, el diseño 3d, los VFX, los motion graphics y leer historias de fantasia.
-
