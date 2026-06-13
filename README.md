@@ -33,7 +33,7 @@ Tunja, Boyacá - Colombia
 
 Soy estudiante de Ingeniería Multimedia con interés en el desarrollo de videojuegos,
 animación digital y producción de contenido interactivo.
-Me apasiona crear experiencias digitales innovadoras que integren creatividad,
+Me gusta crear experiencias digitales innovadoras que integren creatividad,
 tecnología y entretenimiento.
 
 ---
