@@ -70,17 +70,7 @@ animación digital y producción de contenido interactivo.
 Me gusta crear experiencias digitales innovadoras que integren creatividad,
 tecnología y entretenimiento.
 
----
 
-## Mi Plato Favorito
-
-<img src="Liliana/comidafavorita.jpg" width="350">
-
-**Pasta con camarones**
-
-# 01-canguros-golpeadores
-
-## Curso Programación para Videojuegos
 
 # Presentación
 <img src="Valentina/FOTO PERSONAL.jpeg" width="200">
