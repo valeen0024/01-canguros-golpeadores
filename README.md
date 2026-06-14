@@ -35,3 +35,46 @@ Acacías, Meta - Colombia
 ## Perfil 
 
 Soy un estudiante de ingeniería multimedia, me apasiona la programación, el diseño 3d, los VFX, los motion graphics y leer historias de fantasia.
+
+# Presentación Personal
+
+## Foto Personal
+
+<img src="Liliana/Liliana.jpeg" width="350">
+
+---
+
+## Nombre
+
+**Liliana Marcela Daza**
+**Estudiante de Ingenieria multimedia**
+
+---
+
+## Rol en la Industria
+
+**Diseñadora Multimedia para Videojuegos**
+
+---
+
+## Ubicación
+
+Tunja, Boyacá - Colombia
+
+---
+
+## Perfil Breve
+
+Soy estudiante de Ingeniería Multimedia me gustaria aprender sobre el desarrollo de videojuegos, y especializarme en 
+animación digital y producción de contenido interactivo.
+Me gusta crear experiencias digitales innovadoras que integren creatividad,
+tecnología y entretenimiento.
+
+---
+
+## Mi Plato Favorito
+
+<img src="Liliana/comidafavorita.jpg" width="350">
+
+**Pasta con camarones**
+
